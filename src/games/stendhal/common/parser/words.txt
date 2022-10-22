@@ -1770,3 +1770,4 @@ while	IGN
 yeah	IGN
 yet	IGN
 frogmask OBJ
+monkeymask OBJ
