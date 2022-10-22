@@ -1771,3 +1771,4 @@ yeah	IGN
 yet	IGN
 frogmask OBJ
 monkeymask OBJ
+catmask OBJ
